@@ -1,0 +1,13 @@
+token.pickle
+credentials.json
+__pycache__/
+.env
+# Logs
+*.log
+logs/
+
+# OS files
+Thumbs.db
+desktop.ini
+# Virtual environment
+venv/
