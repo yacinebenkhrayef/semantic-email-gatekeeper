@@ -34,3 +34,5 @@ export GEMINI_API_KEY=your_key
 python src/main.py
 
 ```
+1. Copy credentials.example.json → credentials.json
+2. Add your Google OAuth credentials
